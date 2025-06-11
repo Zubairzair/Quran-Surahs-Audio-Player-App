@@ -1,16 +1,18 @@
-# lab5
+# Quran Audio Player
 
-A new Flutter project.
+## Description
+A Flutter app that plays 14 short Surahs from the Holy Quran. Each Surah is a locally stored audio file, playable with a single tap.
 
-## Getting Started
+## Features
+- Offline audio playback
+- 14 Surahs with separate buttons
+- Simple UI using AudioPlayer
 
-This project is a starting point for a Flutter application.
+## Tools Used
+- Flutter
+- Dart
+- audioplayers plugin
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo & APK
+🎥 [Demo Video](https://drive.google.com/file/d/131luM3oUVQKj3X0rbfdsjOSsNmAF7oqX/view?usp=drivesdk)  
+📦 [Download APK](https://drive.google.com/file/d/18iCgxya8yeatNmiWBdJdQHc_jgyHldAI/view?usp=drivesdk)
