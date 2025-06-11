@@ -1,7 +1,8 @@
 # Quran Audio Player
 
 ## Description
-A Flutter app that plays 14 short Surahs from the Holy Quran. Each Surah is a locally stored audio file, playable with a single tap.
+A Flutter app that plays 14 short Surahs from the Holy Quran. Each Surah is a locally stored audio file, playable with a single tap. Useful for testing audio playback in Flutter.
+
 
 ## Features
 - Offline audio playback
